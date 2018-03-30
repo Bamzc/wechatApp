@@ -1,0 +1,11 @@
+<view class="page shaolin">
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__h1">少林</view>
+            <view class="weui-article__section">
+                <view class="weui-article__p">就是个大和尚而已！出家人！</view>
+            </view>
+        </view>
+        <view class="weui-article__p jsa">小和尚下山去化斋，老和尚有交代，山下的女人是……咳咳，犹记小和尚下山那天，好友列表一排的换体型提醒，自从幼体小和尚出现，江湖多了不少求抱抱的声音。但是……小和尚是小没错，也不能小得看不见吧？？？跑商中，“诶，小和尚离队了？”“哦，没有，被挡住了而已”“……”据说成男和尚马上可以剃度了？暗香众子弟：求一个大和尚照亮我门派的天空！</view>
+    </view>
+</view>

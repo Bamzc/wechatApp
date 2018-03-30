@@ -1,0 +1,13 @@
+.anxiang .weui-article{
+  background: url('https://clx.res.netease.com/m/gw/20170921144908/img/mp_peo_5_7b06046.png');
+  height: 400px;
+  width: 100%;
+  background-size: 100% 100%;
+  position: relative;
+}
+.anxiang{
+  margin: 0 10px;
+}
+.anxiang .jsa{
+  text-indent: 2em;
+}

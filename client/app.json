@@ -1,0 +1,48 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/story/index",
+    "pages/story/jianghu/index",
+    "pages/story/sanqianli/index",
+    "pages/story/moreListEassy/index",
+    "pages/photo/index",
+    "pages/personalCenter/index",
+    "pages/mplist/wudang/index",
+    "pages/mplist/yunmeng/index",
+    "pages/mplist/shaolin/index",
+    "pages/mplist/anxiang/index",
+    "pages/mplist/huashan/index"
+    
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "侠客行",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "images/icon/h.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/story/index",
+        "iconPath":"images/icon/ca.png",
+        "text": "侠客轶闻录"
+      },
+      {
+        "pagePath": "pages/photo/index",
+        "iconPath": "images/icon/photo.png",
+        "text": "照片"
+      },
+      {
+        "pagePath": "pages/personalCenter/index",
+        "iconPath": "images/icon/user.png",
+        "text": "个人中心"
+      }
+    ]
+  }
+}

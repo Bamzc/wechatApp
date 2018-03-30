@@ -1,0 +1,12 @@
+<view class="page wudang">
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__h1">武当</view>
+            <view class="weui-article__section">
+                  <view class="weui-article__p">有钱，帅，土豪</view>
+            </view>
+        </view>
+        <view class="weui-article__p jsa">英俊潇洒，风流倜傥，呸，大名鼎鼎的gay当不是虚言，最容易擦出激情火花的门派！别再装作正直小道士的样子啦，你们的蔡居诚师兄都公然进驻点香阁了好嘛！还有……华山弟子真诚向武当同仁表示：憋来讨债了，没钱！我们只有一身正气！</view>
+        
+    </view>
+</view>

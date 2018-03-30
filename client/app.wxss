@@ -1,0 +1,26 @@
+/**app.wxss**/
+
+@import 'weui/dist/style/weui.wxss';
+
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+} 
+page{
+  background: url('https://clx.res.netease.com/m/gw/20170921144908/img/bg4_8f920a3.jpg') !important;
+ 
+  height: 100%;
+  width: 100%;
+  background-size: 100% 100%;
+  position: relative;
+  z-index: 10;
+}
+.weui-cells{
+  background-color: transparent;
+}
+

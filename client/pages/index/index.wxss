@@ -1,0 +1,68 @@
+
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 200px;
+}
+.slide-image{
+  width: 100%;
+  height: 320rpx;
+}
+.slide-swiper{
+  margin: 10px;
+  height: 320rpx;
+}
+
+
+.page__title{
+  margin:0 0 10px 10px;
+}
+.weui-grids{
+   margin:0 10px 10px 10px;
+}
+.weui-panel{
+   background-color: transparent;
+   margin-bottom: 10px;
+}
+.mpjs-xs{
+  text-align: center
+}
+.mpjs-content{
+  border-top: 1rpx solid #d9d9d9;
+  
+}
+.mpjs_desc{
+  text-indent: 2em;
+  height: 200rpx;
+}
+.weui-cells{
+  margin-top: 0;
+}
+.searchbar-result{
+  background: url('https://clx.res.netease.com/m/gw/20170921144908/img/bg4_8f920a3.jpg') !important;
+ 
+  height: 100%;
+  width: 100%;
+  background-size: 100% 100%;
+  position: relative;
+  z-index: 10;
+}
+.weui-grid__icon{
+  
+}

@@ -1,0 +1,12 @@
+<view class="page huashan">
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__h1">华山</view>
+            <view class="weui-article__section">
+                  <view class="weui-article__p">真tm穷，土气</view>
+            </view>
+        </view>
+        <view class="weui-article__p jsa">传说中最穷的门派，常常被gay当上门要债，一不小心就冷死，也是因为家贫无所有，衣服买不起。实际上地底下埋着不少好东西。我们华山这么穷都是因为你们把宝贝挖走
+了哼！啊啊，别看我们穷，我们大师兄可是修为榜第一、传说中的英雄大佬呢！华山坠帅！不接受反驳！</view>
+    </view>
+</view>

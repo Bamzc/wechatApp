@@ -1,0 +1,134 @@
+<view class="page">
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__h1">侠客一行三千里</view>
+            <view class="weui-article__section">
+                
+                <view class="weui-article__section">
+                    <view class="weui-article__p">
+                        今天才突然意识到，游戏中每一个ID都不仅仅是一串数据代码，这背后各有各的悲欢怒惧，相逢不过弹指，而这些时光如以人生为坐标系，大概只是一个单位那么长。
+                    </view>
+                    <view class="weui-article__p">
+                       但我很珍惜与你们结识中的点滴。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/sanqianli/1.jpg" mode="aspectFit"  />
+                    </view>
+                    <view class="weui-article__p">
+                        这画面里每一个，列表每一个，莫不都是招式付与谈笑中，日常把副本打成聊天室。昨天打完雪岭，我提议在这里合影一张，看着冬至的春衫薄，不禁问了句：“冬至，你要换件衣服么？”引起一阵笑。
+                    </view>
+                    <view class="weui-article__p">
+                        那天冬至开华灯星火带我跑地图，听说我要拍照，默默换了一套侠客装，说：“拍照啊，那我得穿上衣服。”好不可爱！
+                    </view>
+                    <view class="weui-article__p">
+                       华灯星火真美。
+                    </view>
+                     <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/sanqianli/2.jpg" mode="aspectFit" />
+                    </view>
+                     <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/sanqianli/3.jpg" mode="aspectFit" />
+                    </view>
+                     <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/sanqianli/4.jpg" mode="aspectFit"  />
+                    </view>
+                     <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/sanqianli/5.jpg" mode="aspectFit" />
+                    </view>
+                    <view class="weui-article__p">
+                        除了华灯星火，这周最有意思的莫过于新出的求抱抱交互，更新第一天我就迫不及待玩起来，然而一大早并没有多少人在线，于是，金陵大街上出现了华山女侠频频拦截路人求抱抱的场景。
+
+                    </view>
+                    <view class="weui-article__p">
+最后一位好心路人回应了我，可惜是个小哥，谁让官方脑洞不够大，同性可以互抱，男士可以抱女士，偏偏女士抱不得男士。我只好眼睁睁看着自己被小哥从五福楼抱到了长乐巷。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/sanqianli/8.jpg" mode="aspectFit"  />
+                    </view>
+                    <view class="weui-article__p">
+                         自然，这动作的乐趣被我们发挥到极致。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/sanqianli/9.jpg" mode="aspectFit"  />
+                    </view>
+                    <view class="weui-article__p">
+淼淼老师在我怀中的脉脉深情
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/sanqianli/10.jpg" mode="aspectFit"  />
+                    </view>
+                    <view class="weui-article__p">
+                    成双成对的抱抱大军中，站着女装大佬兔兔子，特地换上了侍女衣服
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/sanqianli/11.jpg" mode="aspectFit"  />
+                    </view>
+                    <view class="weui-article__p">
+                    还有这种诡异的悬空抱抱，我说，春衫薄和求抱抱真是绝配
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/sanqianli/12.jpg" mode="aspectFit" />
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/sanqianli/13.jpg" mode="aspectFit"  />
+                    </view>
+                    <view class="weui-article__p">
+问初心可真温柔，第一时间跑来芳菲林拍照
+
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/sanqianli/14.jpg" mode="aspectFit"  />
+                    </view>
+                    <view class="weui-article__p">
+雪中，马上
+
+                    </view>
+                     <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/sanqianli/15.jpg" mode="aspectFit"  />
+                    </view>
+                    <view class="weui-article__p">
+                         映日荷花底
+                    </view>
+                    <view class="weui-article__p">
+还有些零零碎碎的照片
+                    </view>
+                     <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/sanqianli/16.jpg" mode="aspectFit"  />
+                    </view>
+                    <view class="weui-article__p">
+                         连环坞与神龙帮众长老合影
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/sanqianli/17.jpg" mode="aspectFit"  />
+                    </view>
+                    <view class="weui-article__p">
+                          雨中江南，侠女撑起的油纸伞
+                    </view>
+                   <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/sanqianli/18.jpg" mode="aspectFit"  />
+                    </view>
+                    <view class="weui-article__p">
+                           跟随状态的白少侠，勤勤恳恳跟着华灯星火飞来飞去，飞成一道剪影。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/sanqianli/19.jpg" mode="aspectFit"  />
+                    </view>
+                    <view class="weui-article__p">
+                         听楚留香第一网红叹息，心都要碎给他
+
+                    </view>
+                    <view class="weui-article__p">
+                      
+江湖前途几何，不要去想，今朝有本今朝打。
+                    </view>
+                    
+                   
+                  
+                  <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/jianghu/10.jpg" mode="aspectFit"  />
+                  </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

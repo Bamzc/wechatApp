@@ -1,0 +1,98 @@
+<view class="page">
+    <view class="page__bd">
+        <view class="weui-article">
+            <view class="weui-article__h1">江湖纪事</view>
+            <view class="weui-article__section">
+                
+                <view class="weui-article__section">
+                    <view class="weui-article__p">
+                        一个月前，要是对我说：“某某手游真好玩！”我大概只会礼貌地笑笑，不予置评。但是现在，有个数据搭建起来的江湖，让我情不自禁每天都花上许多时间投入其中，真是奇妙。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/jianghu/1.jpg" mode="aspectFit" />
+                    </view>
+                    <view class="weui-article__p">
+                        <view class="weui-article__p">
+                        江湖是一个迷人的词语，从神龙帮大宴天下侠客始，我走遍地图每一个边角，御剑飞行，跋山涉水，起初穿着单薄的惊鸿衫，后来换成春节时装花堆雪，再到元宵时装云拱月。一个月的时间对于小狐狸酒来说，足够由小虾米变成初代少侠，唔，一个如今喜欢满江红的女侠。
+                    </view>
+                     <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/jianghu/2.jpg" mode="aspectFit" />
+                    </view>
+                    <view class="weui-article__p">
+                        花堆雪着实喜庆，把侠女变成了拜年娃娃。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/jianghu/3.jpg" mode="aspectFit"  />
+                    </view>
+                    <view class="weui-article__p">
+                         满江红是不是威风凛凛？
+                    </view>
+                    <view class="weui-article__p">
+                      
+“游戏而已，还是手游。”某老手这么吐槽。但是它哪里仅仅是游戏，除了那些无人处静静等待光临的奇遇，除了山峰河流与雕梁画栋，还有那么多可爱的少侠们呀！
+                    </view>
+                    <view class="weui-article__p">
+                        
+犹记那一回大着胆子组了个野队下副本，战战兢兢打完，对面突然发来消息：“少侠，要不要来我们帮派一起玩呀？”对当时随手一键申请加入的帮派毫无归属感的我，毫不犹豫投奔了那个名字极好听的帮派——侠客行，从此这里就是某老手夜夜的噩梦，我的极乐乡。后来才知道，原来副帮主和帮派洛神小姐姐常常这样套路像我一样天真懵懂的小虾米。（笑）
+                    </view>
+                    <view class="weui-article__p">
+                         有了归属的日子哗啦啦一下子流过去，原本怯生生连最初级的副本都不敢试，现在居然也可以打高级本了，列表里有几个闪着高手光芒、修为上万的好友，也能一起做个日常，聊聊心得。
+                    </view>
+                    <view class="weui-article__p">
+                         最重要的是，留下许多珍贵、动人的画面。
+                    </view>
+                     <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/jianghu/4.jpg" mode="aspectFit"  />
+                    </view>
+                    <view class="weui-article__p">
+                         打完副本，在场景拍下的小队全家福，刚好惊鸿衫、花堆雪和云拱月都凑齐了。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/jianghu/5.jpg" mode="aspectFit"  />
+                    </view>
+                    <view class="weui-article__p">
+                          在湿冷江南边看小狮子撒娇边瑟瑟发抖的众少侠。
+                    </view>
+                   <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/jianghu/6.jpg" mode="aspectFit"  />
+                    </view>
+                    <view class="weui-article__p">
+                           结束一天日常仍然不愿下线，随意拣一处屋顶坐下谈天。（是真的谈天，开着实时语音互相吐槽）
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/jianghu/7.jpg" mode="aspectFit"  />
+                    </view>
+                    <view class="weui-article__p">
+                          唔，这位少侠，你想对佛门弟子做什么？
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/jianghu/8.jpg" mode="aspectFit"  />
+                    </view>
+                    <view class="weui-article__p">
+                         喝喝茶，歇歇脚。
+                    </view>
+                    <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/jianghu/9.jpg" mode="aspectFit"  />
+                    </view>
+                  <view class="weui-article__p">
+                          带着小队跑江湖赚银两。
+                  </view>
+                   <view class="weui-article__p">
+                          从前有句很俗气的话，叫做“有人的地方就有江湖”，我觉着说得一点不错，因为这些人——帮派里的小白少侠、小白的小白女侠、淼淼小姐姐、结义小姐姐南笙和弥月、布吉岛小和尚、帮主大人、云梦小哥兔兔子、我华山小师兄寒彻骨，好友里的冬至大神、淼森焱大神，不打不相识的暗香小哥——虚拟空间有了凡世烟火气。
+                  </view>  
+                  <view class="weui-article__p">
+                          每每行至金陵主街，叫卖声效此起彼伏，恍惚进入另一个平行世界，我真的成了那个仗剑行天涯的小狐狸酒少侠。
+                  </view>
+                  <view class="weui-article__p">
+                          
+满堂花醉三千客，一剑霜寒十四州。我沉醉在这一方江湖，不知归路。
+                  </view>
+                  <view class="weui-article__p">
+                        <image class="weui-article__img" src="{{cdn}}/story/jianghu/10.jpg" mode="aspectFit"  />
+                    </view>
+                </view>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

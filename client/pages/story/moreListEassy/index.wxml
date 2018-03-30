@@ -1,0 +1,37 @@
+<view class="page">
+    <view class="page__hd weui-article">
+        <view class="page__title weui-article__h1">帮内事件</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-cells weui-cells_after-title">
+            <view class="weui-cell">
+                <view class="weui-cell__bd">111111111111</view>
+                <view class="weui-cell__ft">2018-1-1</view>
+            </view>
+        </view>
+         <view class="weui-cells weui-cells_after-title">
+            <view class="weui-cell">
+                <view class="weui-cell__bd">111111111111</view>
+                <view class="weui-cell__ft">2018-1-1</view>
+            </view>
+        </view>
+         <view class="weui-cells weui-cells_after-title">
+            <view class="weui-cell">
+                <view class="weui-cell__bd">111111111111</view>
+                <view class="weui-cell__ft">2018-1-1</view>
+            </view>
+        </view>
+         <view class="weui-cells weui-cells_after-title">
+            <view class="weui-cell">
+                <view class="weui-cell__bd">111111111111</view>
+                <view class="weui-cell__ft">2018-1-1</view>
+            </view>
+        </view>
+         <view class="weui-cells weui-cells_after-title">
+            <view class="weui-cell">
+                <view class="weui-cell__bd">111111111111</view>
+                <view class="weui-cell__ft">2018-1-1</view>
+            </view>
+        </view>
+    </view>
+</view>

@@ -1,0 +1,109 @@
+<!--index.wxml-->
+<view class="page main-container">
+  <view class="page__bd">
+      <view class="weui-search-bar">
+          <view class="weui-search-bar__form">
+              <view class="weui-search-bar__box">
+                  <icon class="weui-icon-search_in-box" type="search" size="14"></icon>
+                  <input type="text" class="weui-search-bar__input" placeholder="搜索" value="{{inputVal}}" focus="{{inputShowed}}" bindinput="inputTyping" />
+                  <view class="weui-icon-clear" wx:if="{{inputVal.length > 0}}" bindtap="clearInput">
+                      <icon type="clear" size="14"></icon>
+                  </view>
+              </view>
+              <label class="weui-search-bar__label" hidden="{{inputShowed}}" bindtap="showInput">
+                  <icon class="weui-icon-search" type="search" size="14"></icon>
+                  <view class="weui-search-bar__text">搜索</view>
+              </label>
+          </view>
+          <view class="weui-search-bar__cancel-btn" hidden="{{!inputShowed}}" bindtap="hideInput">取消</view>
+      </view>
+      <view class="weui-cells searchbar-result" wx:if="{{inputVal.length > 0}}">
+          <navigator url="" class="weui-cell" hover-class="weui-cell_active">
+              <view class="weui-cell__bd">
+                  <view>可萌可萌可萌</view>
+              </view>
+          </navigator>
+          <navigator url="" class="weui-cell" hover-class="weui-cell_active">
+              <view class="weui-cell__bd">
+                  <view>可萌可萌可萌</view>
+              </view>
+          </navigator>
+          <navigator url="" class="weui-cell" hover-class="weui-cell_active">
+              <view class="weui-cell__bd">
+                  <view>可萌可萌可萌</view>
+              </view>
+          </navigator>
+          <navigator url="" class="weui-cell" hover-class="weui-cell_active">
+              <view class="weui-cell__bd">
+                  <view>可萌可萌可萌</view>
+              </view>
+          </navigator>
+      </view>
+  </view>
+</view>
+<swiper indicator-dots="{{indicatorDots}}" class="slide-swiper"
+  autoplay="{{autoplay}}" interval="{{interval}}" circular="true" indicator-dots="true" indicator-active-color="red" duration="{{duration}}">
+  <block wx:for="{{imgUrls}}">
+    <swiper-item>
+      <image src="{{item}}" class="slide-image" width="320" height="160"/>
+    </swiper-item>
+  </block>
+</swiper>
+
+<view class="page">
+    <view class="page__hd">
+        <view class="page__title">精选</view>
+    </view>
+    <view class="page__bd">
+        <view class="weui-grids">
+            <block wx:for="{{grids}}" wx:key="*this">
+                <navigator url="{{menuUrls[index]}}" class="weui-grid" hover-class="weui-grid_active">
+                    <image class="weui-grid__icon" src="{{gridsIconUrls[index]}}" />
+                    <view class="weui-grid__label">{{item}}</view>
+                </navigator>
+            </block>
+        </view>
+    </view>
+</view>
+ <view class="page__title">帮内事件</view>
+<view class="weui-panel weui-panel_access">
+   
+    <view class="weui-panel__bd">
+        
+        <navigator url="/pages/story/jianghu/index" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+            <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+                <image class="weui-media-box__thumb" src="{{newsImgUrls[1]}}" />
+            </view>
+            <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+                <view class="weui-media-box__title">江湖纪事</view>
+                <view class="weui-media-box__desc"> 一个月前，要是对我说：“某某手游真好玩！”我大概只会礼貌地笑笑，不予置评。但是现在，有个数据搭建起来的江湖，让我情不自禁每天都花上许多时间投入其中，真是奇妙。</view>
+            </view>
+        </navigator>
+        <navigator url="/pages/story/sanqianli/index" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+            <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+                <image class="weui-media-box__thumb" src="{{newsImgUrls[0]}}" />
+            </view>
+            <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+                <view class="weui-media-box__title">侠客一行三千里</view>
+                <view class="weui-media-box__desc">今天才突然意识到，游戏中每一个ID都不仅仅是一串数据代码，这背后各有各的悲欢怒惧，相逢不过弹指，而这些时光如以人生为坐标系，大概只是一个单位那么长。</view>
+            </view>
+        </navigator>
+    </view>
+    <view class="weui-panel__ft">
+        <view class="weui-cell weui-cell_access weui-cell_link">
+            <view class="weui-cell__bd" ><navigator url="/pages/story/moreListEassy/index">查看更多</navigator></view>
+            <view class="weui-cell__ft weui-cell__ft_in-access"></view>
+        </view>
+    </view>
+</view>
+<view class='page'>
+    <view class="page__title weui-media-box__title mpjs-title">门派介绍</view>
+    <view class="page__bd mpjs-content">
+        <view class="weui-article">
+        <view class="weui-article__h1 weui-media-box__title mpjs-xs">莫道江湖路艰险，且看侠客行仗义。</view>
+          <view class="weui-article__section weui-media-box__desc mpjs_desc">
+                    <view class="weui-article__p ">话说，江湖上势力割据，帮派林立，这百十个帮派中有一名曰侠客行，归于十二连环坞势力，其中境况好不热闹。侠士们打本升级，勤于修炼，可谓勤恳。更有意思的是，他们夜夜畅谈，把江湖轶事说得津津有味。修为榜上或许不见侠客行其名，但论氛围趣味，这里永远令人乐而忘返。</view>
+          </view>
+        </view>
+    </view>
+</view>

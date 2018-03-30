@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="container">
+    <scroll-view  bindscroll="scroll" scroll-top="0" style="height:{{clientHeight}}px;" scroll-y="true">        
+    <view class="list_flex_son psv" wx:for="{{arr}}"> 
+          <image class="weui-article__img photo_image {{arr[index] ? 'loaded':''}}" src="{{arr[index] ? photosArr[index] : ''}}" />
+       </view>
+    </scroll-view>  
+    
+</view>
